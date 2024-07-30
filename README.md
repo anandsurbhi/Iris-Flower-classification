@@ -29,20 +29,22 @@ Business Value
 Enhanced Decision-Making:
 In a commercial setting, accurate classification of plant species can lead to better decision-making regarding plant care and cultivation. For example, understanding the specific needs and characteristics of different Iris species allows businesses to tailor their horticultural practices, improve plant health, and increase yield.
 
-Algorithm utilisded:
+
+Language: Python
+Modules: Numpy, seaborn,matplotlib,pandas
+
+Algorithm utilized:
 Liner Models:
 Logistic Regression
-Linear Discriminante Anlaysis(LDA)
+Linear Discriminant Analysis(LDA)
 
-Non Linear models:
+Non-Linear models:
 Decision Tree Classifier
 KNN-Knearest neighbour
 SVC-Support Vector Classifier
 GaussianNB
 
-Language: Python
 
-Modules: Numpy,seaborn,matplotlib,pandas
 Results:
 ----------
 Testing KNN
